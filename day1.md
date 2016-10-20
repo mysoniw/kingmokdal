@@ -1,6 +1,5 @@
 # 영암송 Saying hello & Goodbye
 ## day1
-I'll call you when I get home.
 
 ### Saying hello
 
@@ -18,3 +17,5 @@ I'll call you when I get home.
 5. How is your family ?
 6. I am sorry to have kept you waiting.
 
+
+- I'll call you when I get home.
